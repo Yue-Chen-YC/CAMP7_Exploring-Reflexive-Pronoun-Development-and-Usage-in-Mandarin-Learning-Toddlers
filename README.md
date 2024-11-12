@@ -20,3 +20,4 @@ Wuyun, G., Zhang, L., Wang, K., & Wu, Y . (2023). Discourse prominence effects o
 
 Zhou, 2006, ASDBank Mandarin Shanghai Corpus. [Online]. Available: https://doi.org/10.21415/T5HW46
 ## Acknowledgements
+We are deeply grateful to Dr. Elsi Kaiser and Dr. Zuzanna Fuchs form USC, for their invaluable guidance throughout this project, as well as to all the lab members of the Psycholinguistics Meeting at USC for their support and suggestions.
