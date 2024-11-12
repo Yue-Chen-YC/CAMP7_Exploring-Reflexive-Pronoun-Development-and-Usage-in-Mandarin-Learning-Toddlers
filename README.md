@@ -19,5 +19,5 @@ Wang, Y ., & Pan, H. (2021). Chinese reflexives. Oxford Research Encyclopedia of
 Wuyun, G., Zhang, L., Wang, K., & Wu, Y . (2023). Discourse prominence effects on interpretation of reflexive pronoun “ziji” in children with ASD. Reading and Writing, 36(6), 1393-1417.
 
 Zhou, 2006, ASDBank Mandarin Shanghai Corpus. [Online]. Available: https://doi.org/10.21415/T5HW46
-## Acknowledgements
+## Acknowledgments
 We are deeply grateful to Dr. Elsi Kaiser and Dr. Zuzanna Fuchs form USC, for their invaluable guidance throughout this project, as well as to all the lab members of the Psycholinguistics Meeting at USC for their support and suggestions.
